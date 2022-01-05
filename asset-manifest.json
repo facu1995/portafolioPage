@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6a977fb.css",
+    "main.js": "/static/js/main.e0e53f89.js",
+    "static/js/787.10cefd74.chunk.js": "/static/js/787.10cefd74.chunk.js",
+    "static/media/proyecto10.PNG": "/static/media/proyecto10.40e03dc40c8bf9708df1.PNG",
+    "static/media/perfil.jpg": "/static/media/perfil.a8ea8d236e2345a84753.jpg",
+    "static/media/proyecto6.PNG": "/static/media/proyecto6.df1cb61e99dccef244c8.PNG",
+    "static/media/proyecto11.PNG": "/static/media/proyecto11.460ad62fecd35ba0e918.PNG",
+    "static/media/proyecto9.PNG": "/static/media/proyecto9.0857bf3b478fe19697d7.PNG",
+    "static/media/proyecto9hover.PNG": "/static/media/proyecto9hover.6ede354a7d7fafbdfd85.PNG",
+    "static/media/proyecto10hover.PNG": "/static/media/proyecto10hover.00b85d403b0d66ee8bd6.PNG",
+    "static/media/proyecto2hover.PNG": "/static/media/proyecto2hover.beeb387a61ec3eec52c9.PNG",
+    "static/media/proyecto2.PNG": "/static/media/proyecto2.8e84595df926876488ac.PNG",
+    "static/media/proyecto3.PNG": "/static/media/proyecto3.d2d8d36eed8a6ad151b9.PNG",
+    "static/media/proyecto6hover.PNG": "/static/media/proyecto6hover.766fa89f4cb5f1687491.PNG",
+    "static/media/proyecto7hover.PNG": "/static/media/proyecto7hover.9356b96c75f0444e31fa.PNG",
+    "static/media/proyecto7.PNG": "/static/media/proyecto7.08f471f7ae615ca45a90.PNG",
+    "static/media/proyecto4hover.PNG": "/static/media/proyecto4hover.735bcd1689f7b339a3d1.PNG",
+    "static/media/proyecto8hover.PNG": "/static/media/proyecto8hover.c257f70591db65350997.PNG",
+    "static/media/proyecto1.png": "/static/media/proyecto1.5f0e38c9cf3ca50d6997.png",
+    "static/media/proyecto1hover.PNG": "/static/media/proyecto1hover.ef8f881c1464c3cb8f64.PNG",
+    "static/media/proyecto8.PNG": "/static/media/proyecto8.3e83cb89ecdf0e941dbe.PNG",
+    "static/media/proyecto3hover.PNG": "/static/media/proyecto3hover.d21c4290d1e6e50fa438.PNG",
+    "static/media/proyecto5hover.PNG": "/static/media/proyecto5hover.e89e5a40c49c0ecdf4ca.PNG",
+    "static/media/proyecto5.PNG": "/static/media/proyecto5.d341de228d48fdbb1198.PNG",
+    "static/media/proyecto4.PNG": "/static/media/proyecto4.69a877ab6da1e11d59d2.PNG",
+    "static/media/proyecto11hover.PNG": "/static/media/proyecto11hover.b76a53dcbe478f53021c.PNG",
+    "index.html": "/index.html",
+    "main.c6a977fb.css.map": "/static/css/main.c6a977fb.css.map",
+    "main.e0e53f89.js.map": "/static/js/main.e0e53f89.js.map",
+    "787.10cefd74.chunk.js.map": "/static/js/787.10cefd74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6a977fb.css",
+    "static/js/main.e0e53f89.js"
+  ]
+}
